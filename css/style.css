@@ -15,3 +15,8 @@ body {
 .footer{
     text-align: center;
 }
+a {
+   border-radius: 100px ;
+   border-style: ridge;
+   
+}
